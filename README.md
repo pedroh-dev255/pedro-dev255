@@ -15,3 +15,5 @@
   <a href = "mailto:henriquepedro1912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
  
 </div>
+
+[![pedroh-dev255](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-dev255&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
