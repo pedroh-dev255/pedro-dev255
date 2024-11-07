@@ -13,6 +13,10 @@
   ##
 <div> 
   <a href = "mailto:henriquepedro1912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+  
+  <a href = "mailto:henriquepedro1912@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)" target="_blank"></a>
+
+
  
 </div>
 
